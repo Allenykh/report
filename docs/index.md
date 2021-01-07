@@ -4,16 +4,16 @@
 
 
 В ходе данное практической работы мы сделали главную страницу веб-сайта аккаунта GitHub, размещённую по адресу: https://allenykh.github.io/ . 
-![скрин](https://github.com/Allenykh/report/tree/main/docs/1.png)
+![](https://github.com/Allenykh/report/tree/main/1.png)
  
 
 На ней разместили ссылки на реферат и отчёт по практической работе. 
-![](2.png)
+![](https://github.com/Allenykh/report/tree/main/2.png)
  
 
 Научились работать с облачной синхронизацией ПК-GitHub. 
-![](3.png)
-![](4.png) 
+![](https://github.com/Allenykh/report/tree/main/3.png)
+![](https://github.com/Allenykh/report/tree/main/4.png) 
 
 Выводы: 
 
